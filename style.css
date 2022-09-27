@@ -1,0 +1,85 @@
+@charset "UTF-8";
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+body{
+    padding: 4px;
+    background-image: linear-gradient(to left, #0CABA8, #008F8C);
+}
+
+ul{
+    text-align: left;
+}
+
+picture > img{
+    padding: 4px;
+    border-radius: 6px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.385);
+    
+}
+
+main{
+    background-color: white;
+    border-radius: 14px;
+    box-shadow: 5px 5px 15px rgb(6, 82, 81);
+    width: 650px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+main picture{
+    text-align: center;
+    
+}
+
+.net{
+    background-color: #008F8C;
+    border-radius: 10px 10px 0px 0px;
+    margin: -10px -10px 0px -10px;
+    padding-bottom: 10px;
+}
+
+main h1{
+    color: #015958;
+    text-align: center;
+    text-shadow: 1px 1px 2px #0CABA8;
+
+}
+
+main img{
+    border-image: 20px;
+    image-rendering: 5s;
+}
+
+main > p{
+    padding: 10px;
+    text-align: justify;
+}
+
+.humilde{
+    text-align: center;
+    font-weight: bold;
+}
+
+main > div{
+    background-color: #008f8d7b;
+    margin: -10px;    
+}
+
+main a{
+    text-decoration: none;
+}
+
+main a:hover{
+    text-decoration: underline;
+    color: blue;
+    transition-duration: .7s;
+}
+
+h2{
+    color: #015958;
+    text-align: center;
+}
