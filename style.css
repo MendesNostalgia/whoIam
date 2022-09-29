@@ -8,6 +8,16 @@
     
 }
 
+.link{
+    border-radius: 10px;
+    font-size: .8em;
+    background-color: #008f8d93;
+    padding: 0px;
+    margin: 10px 0px 0px 40%;
+    text-align: center;
+
+}
+
 body{
     padding: 4px;
     background-image: linear-gradient(to left, #0CABA8, #008F8C);
