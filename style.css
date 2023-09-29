@@ -11,7 +11,7 @@
 .link{
     border-radius: 10px;
     font-size: .8em;
-    background-color: #008f8d93;
+    background-color:  red;
     padding: 0px;
     margin: 10px 0px 0px 40%;
     text-align: center;
@@ -20,7 +20,7 @@
 
 body{
     padding: 4px;
-    background-image: linear-gradient(to left, #0CABA8, #008F8C);
+    background-image: linear-gradient(to left,  #3311aef5, #ad56ebf5);
 }
 
 ul{
@@ -31,13 +31,13 @@ ul{
 picture > img{
     padding: 4px;
     border-radius: 6px;
-    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.385);
+    box-shadow: 0px 0px 20px #000000d3;
 }
 
 main{
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.895);
     border-radius: 14px;
-    box-shadow: 5px 5px 15px rgb(6, 82, 81);
+    box-shadow: 5px 5px 15px #370028;
     width: 600px;
     padding: 15px;
     margin: auto;
@@ -50,14 +50,14 @@ main picture{
 }
 
 .net{
-    background-color: #008F8C;
+    background-color: #EF2040;
     border-radius: 10px 10px 0px 0px;
     margin: 10px -10px 10px -10px;
     padding-bottom: 10px;
 }
 
 main h1{
-    color: #015958;
+    color: #004299;
     text-align: center;
     text-shadow: 1px 1px 2px #0CABA8;
 
@@ -84,8 +84,11 @@ main > p{
 }
 
 main > div{
-    background-color: #008f8d7b;
-    margin: -10px;    
+    background-color: #6a00db39;
+    border-radius: -10px;
+    margin: -10px;
+    margin: -10px -10px;
+    padding-bottom: 10px;    
 }
 
 main a{
