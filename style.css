@@ -20,7 +20,7 @@
 
 body{
     padding: 4px;
-    background-image: linear-gradient(to left,  #3311aef5, #ad56ebf5);
+    background-image: linear-gradient(to left,  #6239dd, #a487fc);
 }
 
 ul{
@@ -31,7 +31,7 @@ ul{
 picture > img{
     padding: 4px;
     border-radius: 6px;
-    box-shadow: 0px 0px 20px #000000d3;
+    box-shadow: 0px 0px 20px #B197FC;
 }
 
 main{
@@ -50,16 +50,16 @@ main picture{
 }
 
 .net{
-    background-color: #EF2040;
+    background-color: #183153;
     border-radius: 10px 10px 0px 0px;
     margin: 10px -10px 10px -10px;
     padding-bottom: 10px;
 }
 
 main h1{
-    color: #004299;
+    color: #865dff;
     text-align: center;
-    text-shadow: 1px 1px 2px #0CABA8;
+    text-shadow: 1px 1px 2px #936ffd;
 
 }
 
@@ -84,11 +84,15 @@ main > p{
 }
 
 main > div{
-    background-color: #6a00db39;
+    background-color: #004badd5;
     border-radius: -10px;
     margin: -10px;
     margin: -10px -10px;
     padding-bottom: 10px;    
+}
+
+h3 {
+    color: white;
 }
 
 main a{
@@ -97,11 +101,12 @@ main a{
 
 main a:hover{
     text-decoration: underline;
-    color: blue;
+    color: rgb(255, 255, 255);
     transition-duration: .7s;
 }
 
 h2{
-    color: #015958;
+    color: #183153;
     text-align: center;
+    font-family: fantasy;
 }
